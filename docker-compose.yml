@@ -1,0 +1,9 @@
+version: '3.4'
+           
+services: 
+  server:
+    image: gcc-docker:latest
+    build: ./server
+    ports:
+      - "9666:9666"
+        
