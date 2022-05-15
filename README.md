@@ -2,7 +2,7 @@ Tarea corta # 2
 Alejandro Centeno Chaves
 2017169579 
 
-#Instrucciones de ejecución
+# Instrucciones de ejecución
 
 Ejecute el siguiente comando en terminal dentro de la carpeta raiz del proyecto:
 
